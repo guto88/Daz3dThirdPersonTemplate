@@ -2111,3 +2111,339 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.31-21.02.35:082][958]AssetCheck: New page: Asset Save: multiple assets
 [2021.03.31-21.02.35:082][958]LogContentValidation: Display: Validating Texture2D /Game/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/Textures/T_BrowMask.T_BrowMask
 [2021.03.31-21.02.35:082][958]LogContentValidation: Display: Validating Texture2D /Game/Game/CharacterAssets/Genesis8_1/Male/Characters/MaleBase/Textures/T_BrowMaskMale.T_BrowMaskMale
+[2021.03.31-21.23.33:458][723]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.31-21.23.33:465][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.31-21.23.33:465][723]PIE: New page: PIE session: ThirdPersonExampleMap (31 de mar de 2021 15:23:33)
+[2021.03.31-21.23.33:466][723]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.31-21.23.33:467][723]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.31-21.23.33:467][723]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.31-21.23.33:479][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011366s)
+[2021.03.31-21.23.33:480][723]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.31-21.23.33:480][723]LogPlayLevel: PIE: World Init took: (0.001492s)
+[2021.03.31-21.23.33:480][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012992s)
+[2021.03.31-21.23.33:487][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.03.31-21.23.33:489][723]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.31-21.23.33:489][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.31-21.23.33:489][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.31-21.23.33:489][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.31-21.23.33:489][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.31-21.23.33:489][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.31-21.23.33:489][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.31-21.23.33:489][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.31-21.23.33:489][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.31-21.23.33:489][723]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.31-21.23.33:489][723]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.31-21.23.33:496][723]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.31-21.23.33:496][723]LogAudioMixer: Display: 1: FrontRight
+[2021.03.31-21.23.33:505][723]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.03.31-21.23.33:505][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.31-21.23.33:505][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.31-21.23.33:506][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.31-21.23.33:506][723]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.31-21.23.33:506][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.31-21.23.33:506][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.31-21.23.33:520][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.31-21.23.33:520][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.31-21.23.33:520][723]LogInit: FAudioDevice initialized.
+[2021.03.31-21.23.33:520][723]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.03.31-21.23.33:607][723]LogLoad: Game class is 'GM_Default_C'
+[2021.03.31-21.23.33:612][723]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.03.31-18.23.33
+[2021.03.31-21.23.33:612][723]LogLinker: Warning: Failed to load '/Game/Game/Sequences/FemaleBase_Animation_CtrlRig_Take1': Can't find file.
+[2021.03.31-21.23.33:613][723]LogLinker: Warning: Failed to load '/Game/Game/Sequences/FemaleBase_Animation_CtrlRig_Take1': Can't find file.
+[2021.03.31-21.23.33:613][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Game/Sequences/FemaleBase_Animation_CtrlRig_Take1.FemaleBase_Animation_CtrlRig_Take1'
+[2021.03.31-21.23.33:613][723]LogWorld: Bringing up level for play took: 0.004714
+[2021.03.31-21.23.33:613][723]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.03.31-21.23.33:615][723]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.03.31-21.23.33:617][723]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.03.31-21.23.33:618][723]PIE: Server logged in
+[2021.03.31-21.23.33:618][723]PIE: Play in editor total start time 0,154 seconds.
+[2021.03.31-21.23.33:685][725]LogDLSSNGX: [Core]: [2021-03-31 18:23:33] [NVSDK_NGX_CreateFeature_Validate:400] app id is 194818232
+[2021.03.31-21.24.04:927][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-21.24.04:927][466]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.31-21.24.04:927][466]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-21.24.04:927][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-21.24.04:935][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.31-21.24.04:937][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-21.24.04:941][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-21.24.04:942][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-21.24.04:943][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-21.24.04:959][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.03.31-21.24.05:009][469]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.03.31-21.24.05:030][472]LogDLSSNGXD3D11RHI: NVSDK_NGX_D3D11_ReleaseFeature -> (1 NVSDK_NGX_Result_Success)
+[2021.03.31-21.24.05:030][472]LogDLSSNGXD3D11RHI: NVSDK_NGX_D3D11_DestroyParameters -> (1 NVSDK_NGX_Result_Success)
+[2021.03.31-21.26.40:448][311]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.31-21.26.40:455][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.31-21.26.40:455][311]PIE: New page: PIE session: ThirdPersonExampleMap (31 de mar de 2021 15:26:40)
+[2021.03.31-21.26.40:496][311]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.31-21.26.40:505][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008772s)
+[2021.03.31-21.26.40:506][311]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.31-21.26.40:506][311]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2021.03.31-21.26.40:506][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009936s)
+[2021.03.31-21.26.40:512][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.31-21.26.40:513][311]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.03.31-21.26.40:513][311]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.31-21.26.40:513][311]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.31-21.26.40:513][311]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.31-21.26.40:513][311]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.31-21.26.40:513][311]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.31-21.26.40:513][311]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.31-21.26.40:513][311]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.31-21.26.40:513][311]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.31-21.26.40:514][311]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.31-21.26.40:514][311]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.31-21.26.40:520][311]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.31-21.26.40:520][311]LogAudioMixer: Display: 1: FrontRight
+[2021.03.31-21.26.40:529][311]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.03.31-21.26.40:529][311]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.31-21.26.40:529][311]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.31-21.26.40:529][311]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.31-21.26.40:529][311]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.31-21.26.40:529][311]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.31-21.26.40:529][311]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.31-21.26.40:543][311]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.31-21.26.40:543][311]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.31-21.26.40:543][311]LogInit: FAudioDevice initialized.
+[2021.03.31-21.26.40:543][311]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.03.31-21.26.40:549][311]LogLoad: Game class is 'GM_Default_C'
+[2021.03.31-21.26.40:553][311]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.03.31-18.26.40
+[2021.03.31-21.26.40:554][311]LogWorld: Bringing up level for play took: 0.004037
+[2021.03.31-21.26.40:554][311]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.03.31-21.26.40:555][311]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.03.31-21.26.40:556][311]PIE: Server logged in
+[2021.03.31-21.26.40:557][311]PIE: Play in editor total start time 0,103 seconds.
+[2021.03.31-21.26.40:581][312]LogDLSSNGX: [Core]: [2021-03-31 18:26:40] [NVSDK_NGX_CreateFeature_Validate:400] app id is 194818232
+[2021.03.31-21.26.46:367][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-21.26.46:367][  0]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.31-21.26.46:367][  0]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-21.26.46:367][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-21.26.46:373][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.31-21.26.46:374][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-21.26.46:379][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-21.26.46:379][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-21.26.46:380][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-21.26.46:395][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.03.31-21.26.46:439][  2]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.03.31-21.26.46:469][  6]LogDLSSNGXD3D11RHI: NVSDK_NGX_D3D11_ReleaseFeature -> (1 NVSDK_NGX_Result_Success)
+[2021.03.31-21.26.46:469][  6]LogDLSSNGXD3D11RHI: NVSDK_NGX_D3D11_DestroyParameters -> (1 NVSDK_NGX_Result_Success)
+[2021.03.31-21.27.14:230][304]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/MI_Face5B2ABB1542B39A8C18F100A13BC3207B.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/Materials/MI_Face.uasset'
+[2021.03.31-21.27.14:236][304]AssetCheck: New page: Asset Save: MI_Face
+[2021.03.31-21.27.14:236][304]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/Materials/MI_Face.MI_Face
+[2021.03.31-21.30.27:692][909]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.31-21.30.27:699][909]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.31-21.30.27:699][909]PIE: New page: PIE session: ThirdPersonExampleMap (31 de mar de 2021 15:30:27)
+[2021.03.31-21.30.27:736][909]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.31-21.30.27:746][909]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009706s)
+[2021.03.31-21.30.27:747][909]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.31-21.30.27:747][909]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2021.03.31-21.30.27:747][909]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010928s)
+[2021.03.31-21.30.27:753][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.03.31-21.30.27:754][909]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.03.31-21.30.27:754][909]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.31-21.30.27:754][909]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.31-21.30.27:754][909]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.31-21.30.27:754][909]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.31-21.30.27:754][909]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.31-21.30.27:754][909]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.31-21.30.27:754][909]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.31-21.30.27:754][909]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.31-21.30.27:755][909]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.31-21.30.27:755][909]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.31-21.30.27:761][909]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.31-21.30.27:761][909]LogAudioMixer: Display: 1: FrontRight
+[2021.03.31-21.30.27:770][909]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.03.31-21.30.27:770][909]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.31-21.30.27:770][909]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.31-21.30.27:770][909]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.31-21.30.27:771][909]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.31-21.30.27:771][909]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.31-21.30.27:771][909]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.31-21.30.27:771][909]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.31-21.30.27:771][909]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.31-21.30.27:771][909]LogInit: FAudioDevice initialized.
+[2021.03.31-21.30.27:771][909]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2021.03.31-21.30.27:788][909]LogLoad: Game class is 'GM_Default_C'
+[2021.03.31-21.30.27:793][909]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.03.31-18.30.27
+[2021.03.31-21.30.27:793][909]LogWorld: Bringing up level for play took: 0.004117
+[2021.03.31-21.30.27:793][909]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.03.31-21.30.27:795][909]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.03.31-21.30.27:795][909]PIE: Server logged in
+[2021.03.31-21.30.27:796][909]PIE: Play in editor total start time 0,097 seconds.
+[2021.03.31-21.30.27:821][910]LogDLSSNGX: [Core]: [2021-03-31 18:30:27] [NVSDK_NGX_CreateFeature_Validate:400] app id is 194818232
+[2021.03.31-21.30.33:715][616]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.03.31-21.30.33:715][616]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.03.31-21.30.34:231][678]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.03.31-21.30.34:231][678]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.03.31-21.30.34:616][724]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.03.31-21.30.34:616][724]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.03.31-21.30.35:106][783]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.03.31-21.30.35:107][783]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.03.31-21.31.14:317][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-21.31.14:317][484]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.31-21.31.14:317][484]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-21.31.14:318][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-21.31.14:323][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.31-21.31.14:325][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-21.31.14:330][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-21.31.14:330][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-21.31.14:331][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-21.31.14:345][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.31-21.31.14:391][486]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.03.31-21.31.14:421][490]LogDLSSNGXD3D11RHI: NVSDK_NGX_D3D11_ReleaseFeature -> (1 NVSDK_NGX_Result_Success)
+[2021.03.31-21.31.14:421][490]LogDLSSNGXD3D11RHI: NVSDK_NGX_D3D11_DestroyParameters -> (1 NVSDK_NGX_Result_Success)
+[2021.03.31-21.31.26:354][808]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/SK_FemaleBase27051E324BB4D6A5B83906AE75CA46F0.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/SK_FemaleBase.uasset'
+[2021.03.31-21.31.26:395][808]AssetCheck: New page: Asset Save: SK_FemaleBase
+[2021.03.31-21.31.26:395][808]LogContentValidation: Display: Validating SkeletalMesh /Game/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/SK_FemaleBase.SK_FemaleBase
+[2021.03.31-21.33.23:984][263]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/SK_FemaleBase02406702436B16F09B1054AB6572E83B.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/SK_FemaleBase.uasset'
+[2021.03.31-21.33.23:994][263]AssetCheck: New page: Asset Save: SK_FemaleBase
+[2021.03.31-21.33.23:994][263]LogContentValidation: Display: Validating SkeletalMesh /Game/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/SK_FemaleBase.SK_FemaleBase
+[2021.03.31-21.39.00:701][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.03.31-21.39.00:702][846]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.03.31-21.39.00:708][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.03.31-21.39.00:714][846]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/MI_FaceAD2A776F4BD4925E739BDDB1CA99AEBB.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Male/Characters/MaleBase/Materials/MI_Face.uasset'
+[2021.03.31-21.39.00:722][846]AssetCheck: New page: Asset Save: MI_Face
+[2021.03.31-21.39.00:722][846]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Game/CharacterAssets/Genesis8_1/Male/Characters/MaleBase/Materials/MI_Face.MI_Face
+[2021.03.31-21.39.34:453][589]LogMaterialEditor: Saving and Compiling material M_Skin
+[2021.03.31-21.39.34:886][589]LogMaterial: Display: Missing cached shader map for material M_Skin, compiling. 
+[2021.03.31-21.39.34:934][589]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 54
+[2021.03.31-21.39.34:934][589]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 53
+[2021.03.31-21.39.34:934][589]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 52
+[2021.03.31-21.39.34:934][589]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 51
+[2021.03.31-21.39.34:934][589]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 50
+[2021.03.31-21.39.34:934][589]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 49
+[2021.03.31-21.39.34:934][589]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 48
+[2021.03.31-21.39.34:934][589]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 47
+[2021.03.31-21.39.34:934][589]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 46
+[2021.03.31-21.39.34:934][589]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 45
+[2021.03.31-21.39.34:934][589]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 44
+[2021.03.31-21.39.34:934][589]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 43
+[2021.03.31-21.39.34:961][589]LogMaterial: Display: Missing cached shader map for material M_Skin, compiling. 
+[2021.03.31-21.39.35:004][589]LogMaterial: Display: Missing cached shader map for material M_Skin, compiling. 
+[2021.03.31-21.39.35:041][589]LogMaterial: Display: Missing cached shader map for material M_Skin, compiling. 
+[2021.03.31-21.39.35:077][589]LogMaterial: Display: Missing cached shader map for material M_Skin, compiling. 
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 422
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 421
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 420
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 419
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 418
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 417
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 416
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 415
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 414
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 413
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 412
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 411
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 410
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 409
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 408
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 407
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 406
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 405
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 404
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 403
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 402
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 401
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 400
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 399
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 398
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 397
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 396
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 395
+[2021.03.31-21.39.36:021][589]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 394
+[2021.03.31-21.39.36:021][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.03.31-21.39.36:028][589]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.31-21.39.36:590][589]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 395
+[2021.03.31-21.39.36:590][589]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 394
+[2021.03.31-21.39.36:590][589]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 393
+[2021.03.31-21.39.36:590][589]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 392
+[2021.03.31-21.39.36:590][589]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 391
+[2021.03.31-21.39.36:590][589]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 390
+[2021.03.31-21.39.36:590][589]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 389
+[2021.03.31-21.39.36:590][589]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 388
+[2021.03.31-21.39.36:590][589]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 387
+[2021.03.31-21.39.36:590][589]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 386
+[2021.03.31-21.39.36:590][589]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 385
+[2021.03.31-21.39.36:590][589]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 384
+[2021.03.31-21.39.36:590][589]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 383
+[2021.03.31-21.39.36:590][589]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 382
+[2021.03.31-21.39.36:951][589]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 381
+[2021.03.31-21.39.36:951][589]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 380
+[2021.03.31-21.39.36:951][589]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 370
+[2021.03.31-21.39.36:951][589]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 360
+[2021.03.31-21.39.36:951][589]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 350
+[2021.03.31-21.39.36:951][589]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 340
+[2021.03.31-21.39.36:951][589]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 330
+[2021.03.31-21.39.36:951][589]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 320
+[2021.03.31-21.39.36:951][589]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 310
+[2021.03.31-21.39.36:951][589]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 300
+[2021.03.31-21.39.36:951][589]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 290
+[2021.03.31-21.39.36:960][589]TextureStreamingBuild: Display: Compiling optional shaders took 0.938 seconds.
+[2021.03.31-21.39.36:969][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.03.31-21.39.36:995][589]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 280
+[2021.03.31-21.39.37:021][589]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 270
+[2021.03.31-21.39.39:249][589]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 260
+[2021.03.31-21.39.39:809][589]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 250
+[2021.03.31-21.39.39:809][589]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 240
+[2021.03.31-21.39.39:809][589]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 230
+[2021.03.31-21.39.40:380][589]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 220
+[2021.03.31-21.39.40:380][589]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 210
+[2021.03.31-21.39.40:380][589]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 200
+[2021.03.31-21.39.40:380][589]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 190
+[2021.03.31-21.39.40:380][589]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 180
+[2021.03.31-21.39.40:380][589]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 170
+[2021.03.31-21.39.40:380][589]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 160
+[2021.03.31-21.39.40:380][589]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 150
+[2021.03.31-21.39.40:506][589]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/M_SkinF7C31DD046439972361547A045AEAB64.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/MaterialLibrary/Genesis8_1/M_Skin.uasset'
+[2021.03.31-21.39.40:586][589]AssetCheck: New page: Asset Save: M_Skin
+[2021.03.31-21.39.40:586][589]LogContentValidation: Display: Validating Material /Game/Game/MaterialLibrary/Genesis8_1/M_Skin.M_Skin
+[2021.03.31-21.39.42:260][686]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 140
+[2021.03.31-21.39.42:783][724]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 130
+[2021.03.31-21.39.43:071][750]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 120
+[2021.03.31-21.39.43:129][755]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 110
+[2021.03.31-21.39.43:601][803]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 100
+[2021.03.31-21.39.43:630][806]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 91
+[2021.03.31-21.39.43:649][808]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 83
+[2021.03.31-21.39.43:800][823]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 76
+[2021.03.31-21.39.43:817][825]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 69
+[2021.03.31-21.39.44:067][847]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 63
+[2021.03.31-21.39.44:212][861]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 57
+[2021.03.31-21.39.44:426][884]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 52
+[2021.03.31-21.39.45:761][  5]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 47
+[2021.03.31-21.39.45:985][ 27]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 43
+[2021.03.31-21.39.46:002][ 29]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 39
+[2021.03.31-21.39.46:130][ 42]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 35
+[2021.03.31-21.39.46:205][ 49]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 32
+[2021.03.31-21.39.46:232][ 50]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 29
+[2021.03.31-21.39.46:373][ 59]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 26
+[2021.03.31-21.39.46:492][ 70]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 23
+[2021.03.31-21.39.46:625][ 83]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 21
+[2021.03.31-21.39.46:723][ 93]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 19
+[2021.03.31-21.39.46:763][ 97]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 17
+[2021.03.31-21.39.46:910][112]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2021.03.31-21.39.46:995][121]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 13
+[2021.03.31-21.39.47:005][122]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 11
+[2021.03.31-21.39.47:200][133]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2021.03.31-21.39.47:241][136]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2021.03.31-21.39.47:299][141]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2021.03.31-21.39.47:379][149]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2021.03.31-21.39.47:403][151]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2021.03.31-21.39.47:448][155]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2021.03.31-21.39.47:508][161]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.03.31-21.39.47:548][165]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2021.03.31-21.39.47:596][170]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.03.31-21.39.47:597][170]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.03.31-21.39.51:024][548]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-21.39.51:024][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-21.39.52:288][626]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-21.39.52:289][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-21.39.53:520][702]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-21.39.53:520][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-21.40.51:078][221]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.03.31-21.42.45:013][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.03.31-21.42.51:557][746]LogSlate: Window 'Message' being destroyed
+[2021.03.31-21.42.51:562][746]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to update the default settings?
+[2021.03.31-21.42.53:943][746]LogSlate: Window 'Message' being destroyed
+[2021.03.31-21.42.53:948][746]Message dialog closed, result: Yes, title: Message, text: The default configuration file for these settings is not currently writable. Would you like to make it writable?
+[2021.03.31-21.42.55:927][746]LogSlate: Window 'Message' being destroyed
+[2021.03.31-21.42.55:932][746]Message dialog closed, result: Ok, title: Message, text: The default configuration file for these settings was updated successfully. 
+
+If checked into source control this would affect other developers.
