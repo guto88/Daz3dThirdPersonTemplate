@@ -2099,3 +2099,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.31-21.00.22:825][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/CharacterAssets/Genesis8_1/Male/Characters/MaleBase/Textures/T_BrowMaskMale]
 [2021.03.31-21.00.23:078][172]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/T_BrowMaskMale_Auto304BA85E94434A100F85158A6F9EB4CFE.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/Autosaves/Game/Game/CharacterAssets/Genesis8_1/Male/Characters/MaleBase/Textures/T_BrowMaskMale_Auto3.uasset'
 [2021.03.31-21.00.23:079][172]LogFileHelpers: Auto-saving content packages took 0.598
+[2021.03.31-21.01.47:462][616]LogBlueprintUserMessages: [BP_DLSS] DLSS ON
+[2021.03.31-21.01.47:462][616]Cmd: r.TemporalAA.Upsampling 0
+[2021.03.31-21.01.47:462][616]r.TemporalAA.Upsampling = "0"
+[2021.03.31-21.01.47:462][616]Cmd: r.Streaming.PoolSize 3000
+[2021.03.31-21.01.47:462][616]r.Streaming.PoolSize = "3000"
+[2021.03.31-21.02.33:181][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.03.31-21.02.34:677][958]LogSlate: Window 'Save Content' being destroyed
+[2021.03.31-21.02.34:882][958]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/T_BrowMask2E5B147B4D28479A5C0F678C9486EB10.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/Textures/T_BrowMask.uasset'
+[2021.03.31-21.02.35:075][958]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/T_BrowMaskMaleC7031F7D4025E8D56FEE35A5C4F5A55F.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Male/Characters/MaleBase/Textures/T_BrowMaskMale.uasset'
+[2021.03.31-21.02.35:082][958]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.31-21.02.35:082][958]LogContentValidation: Display: Validating Texture2D /Game/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/Textures/T_BrowMask.T_BrowMask
+[2021.03.31-21.02.35:082][958]LogContentValidation: Display: Validating Texture2D /Game/Game/CharacterAssets/Genesis8_1/Male/Characters/MaleBase/Textures/T_BrowMaskMale.T_BrowMaskMale
