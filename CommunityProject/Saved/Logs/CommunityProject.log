@@ -956,3 +956,163 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.02-01.15.47:510][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.04.02-01.15.47:711][  2]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0078 seconds. Added 3718 classes and 911 folders.
 [2021.04.02-01.15.48:445][ 46]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.02-01.16.20:468][297]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Game/_Core/Components/Equipment/WBP_InventorySlots.WBP_InventorySlots_C:Item'. Unknown structure.
+[2021.04.02-01.16.20:474][297]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Game/_Core/Components/Equipment/WPB_WereablesSlots.WPB_WereablesSlots_C:ExecuteUbergraph_WPB_WereablesSlots:CallFunc_Map_Find_Value'. Unknown structure.
+[2021.04.02-01.16.20:479][297]LogClass: Warning: Property Item of Item has a struct type mismatch (tag STRUCT_REINST_S_Wereables_8 != prop FallbackStruct) in package:  ../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/_Core/Components/Equipment/WBP_InventorySlots.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.04.02-01.16.20:491][297]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] In use pin  Item Name  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.04.02-01.16.20:491][297]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] In use pin  Item Type  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.04.02-01.16.20:491][297]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] In use pin  Item Thumbnail  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.04.02-01.16.20:492][297]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] In use pin  Item Item Mesh  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.04.02-01.16.20:492][297]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] Could not find a function named "None" in 'WBP_Inventory'.
+Make sure 'WBP_Inventory' has been compiled for  Create Widget
+[2021.04.02-01.16.20:492][297]LogBlueprint: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] Node  Create Widget . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Call Function.
+[2021.04.02-01.16.20:501][297]LogClass: Warning: Property Item of Item has a struct type mismatch (tag FallbackStruct != prop S_Wereables) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.04.02-01.16.20:525][297]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Game/_Core/Components/Equipment/WBP_Inventory.WBP_Inventory
+[2021.04.02-01.16.20:563][297]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.04.02-01.16.21:257][297]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/_Core/CharacterLogic/BP_PlayerCharacter.BP_PlayerCharacter
+[2021.04.02-01.16.21:607][297]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/_Core/CharacterLogic/BP_PlayerController.BP_PlayerController
+[2021.04.02-01.16.21:874][297]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/_Core/Components/Equipment/AC_Inventory.AC_Inventory
+[2021.04.02-01.16.22:140][297]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Game/_Core/Components/Equipment/S_Wereables.S_Wereables
+[2021.04.02-01.16.32:365][950]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.04.02-01.16.37:544][416]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2021.04.02-01.16.37:556][416]LogContentBrowser: Creating deferred item: NewInterface
+[2021.04.02-01.16.44:971][292]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Wearables
+[2021.04.02-01.16.44:974][292]LogContentBrowser: End creating deferred item NewInterface
+[2021.04.02-01.16.46:983][512]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.04.02-01.16.48:136][512]LogSlate: Window 'Save Content' being destroyed
+[2021.04.02-01.16.48:177][512]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/BPI_WearablesBE28EC7948728438FD2D6DBB8B8500FB.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/_Core/Components/Equipment/BPI_Wearables.uasset'
+[2021.04.02-01.16.48:191][512]AssetCheck: New page: Asset Save: BPI_Wearables
+[2021.04.02-01.16.48:191][512]LogContentValidation: Display: Validating Blueprint /Game/Game/_Core/Components/Equipment/BPI_Wearables.BPI_Wearables
+[2021.04.02-01.17.11:171][ 56]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.02-01.17.11:177][ 56]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.02-01.17.12:901][199]BlueprintLog: New page: Compile WBP_Inventory
+[2021.04.02-01.17.12:905][199]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] In use pin  Item Name  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.04.02-01.17.12:905][199]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] In use pin  Item Type  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.04.02-01.17.12:905][199]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] In use pin  Item Thumbnail  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.04.02-01.17.12:905][199]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] In use pin  Item Item Mesh  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.04.02-01.17.12:905][199]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] Could not find a function named "None" in 'WBP_Inventory'.
+Make sure 'WBP_Inventory' has been compiled for  Create Widget
+[2021.04.02-01.17.12:905][199]LogBlueprint: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] Node  Create Widget . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Call Function.
+[2021.04.02-01.17.12:939][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.04.02-01.17.13:802][269]BlueprintLog: New page: Compile WBP_Inventory
+[2021.04.02-01.17.13:805][269]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] In use pin  Item Name  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.04.02-01.17.13:805][269]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] In use pin  Item Type  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.04.02-01.17.13:805][269]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] In use pin  Item Thumbnail  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.04.02-01.17.13:805][269]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] In use pin  Item Item Mesh  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.04.02-01.17.13:806][269]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] Could not find a function named "None" in 'WBP_Inventory'.
+Make sure 'WBP_Inventory' has been compiled for  Create Widget
+[2021.04.02-01.17.13:806][269]LogBlueprint: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] Node  Create Widget . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Call Function.
+[2021.04.02-01.17.13:839][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.04.02-01.17.16:679][592]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.02-01.17.28:674][873]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.04.02-01.17.32:385][181]LogEditorTransaction: Undo Change Class Pin Value
+[2021.04.02-01.18.08:474][ 46]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Game/_Core/Components/Equipment/DT_Wereables.DT_Wereables
+[2021.04.02-01.18.11:691][340]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Game/_Core/Components/Equipment/E_WereablesType.E_WereablesType
+[2021.04.02-01.18.35:651][768]BlueprintLog: New page: Compile WBP_Inventory
+[2021.04.02-01.18.35:654][768]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] In use pin  Item Name  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.04.02-01.18.35:654][768]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] In use pin  Item Type  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.04.02-01.18.35:654][768]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] In use pin  Item Thumbnail  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.04.02-01.18.35:654][768]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] In use pin  Item Item Mesh  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.04.02-01.18.35:655][768]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] Could not find a function named "None" in 'WBP_Inventory'.
+Make sure 'WBP_Inventory' has been compiled for  Create Widget
+[2021.04.02-01.18.35:655][768]LogBlueprint: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\_Core\Components\Equipment\WBP_Inventory.uasset: [Compiler] Node  Create Widget . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Call Function.
+[2021.04.02-01.18.35:736][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.04.02-01.18.36:277][806]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/WBP_Inventory47CD8E4840089842F414CA893C8674DC.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/_Core/Components/Equipment/WBP_Inventory.uasset'
+[2021.04.02-01.18.36:287][806]AssetCheck: New page: Asset Save: WBP_Inventory
+[2021.04.02-01.18.36:287][806]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/_Core/Components/Equipment/WBP_Inventory.WBP_Inventory
+[2021.04.02-01.18.51:022][437]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Game/_Core/Components/Equipment/WBP_InventorySlots.WBP_InventorySlots
+[2021.04.02-01.18.54:793][804]BlueprintLog: New page: Compile WBP_InventorySlots
+[2021.04.02-01.18.54:867][804]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.04.02-01.18.55:399][849]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/WBP_InventorySlots8561874B493948876EC8B1AEFEEE2403.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/_Core/Components/Equipment/WBP_InventorySlots.uasset'
+[2021.04.02-01.18.55:414][849]AssetCheck: New page: Asset Save: WBP_InventorySlots
+[2021.04.02-01.18.55:414][849]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/_Core/Components/Equipment/WBP_InventorySlots.WBP_InventorySlots
+[2021.04.02-01.19.15:471][ 19]BlueprintLog: New page: Compile WBP_InventorySlots
+[2021.04.02-01.19.15:524][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.04.02-01.19.15:846][ 51]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/WBP_InventorySlotsF233FFC5468187E46FDF2F8230FE6FDA.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/_Core/Components/Equipment/WBP_InventorySlots.uasset'
+[2021.04.02-01.19.15:856][ 51]AssetCheck: New page: Asset Save: WBP_InventorySlots
+[2021.04.02-01.19.15:856][ 51]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/_Core/Components/Equipment/WBP_InventorySlots.WBP_InventorySlots
+[2021.04.02-01.19.23:208][663]BlueprintLog: New page: Compile WBP_Inventory
+[2021.04.02-01.19.23:250][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.04.02-01.19.24:397][737]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/WBP_Inventory5F043D344F29384169F743B649D51718.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/_Core/Components/Equipment/WBP_Inventory.uasset'
+[2021.04.02-01.19.24:407][737]AssetCheck: New page: Asset Save: WBP_Inventory
+[2021.04.02-01.19.24:407][737]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/_Core/Components/Equipment/WBP_Inventory.WBP_Inventory
+[2021.04.02-01.19.31:686][560]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.02-01.19.31:691][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.02-01.19.31:692][560]PIE: New page: PIE session: ThirdPersonExampleMap (1 de abr de 2021 19:19:31)
+[2021.04.02-01.19.31:693][560]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.02-01.19.31:694][560]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.02-01.19.31:694][560]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.02-01.19.31:705][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011238s)
+[2021.04.02-01.19.31:706][560]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.02-01.19.31:706][560]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2021.04.02-01.19.31:706][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012505s)
+[2021.04.02-01.19.31:745][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.04.02-01.19.31:746][560]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.02-01.19.31:746][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.02-01.19.31:746][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.02-01.19.31:746][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.02-01.19.31:746][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.02-01.19.31:746][560]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.02-01.19.31:746][560]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.02-01.19.31:746][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.02-01.19.31:746][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.02-01.19.31:747][560]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.02-01.19.31:747][560]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.02-01.19.31:752][560]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.02-01.19.31:752][560]LogAudioMixer: Display: 1: FrontRight
+[2021.04.02-01.19.31:761][560]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.04.02-01.19.31:761][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.02-01.19.31:761][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.02-01.19.31:761][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.02-01.19.31:762][560]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.02-01.19.31:762][560]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.02-01.19.31:762][560]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.02-01.19.31:774][560]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.02-01.19.31:774][560]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.02-01.19.31:774][560]LogInit: FAudioDevice initialized.
+[2021.04.02-01.19.31:774][560]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.04.02-01.19.31:782][560]LogLoad: Game class is 'GM_Default_C'
+[2021.04.02-01.19.31:786][560]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.01-22.19.31
+[2021.04.02-01.19.31:787][560]LogLinker: Warning: Failed to load '/Game/Game/Sequences/FemaleBase_Animation_CtrlRig_Take1': Can't find file.
+[2021.04.02-01.19.31:787][560]LogLinker: Warning: Failed to load '/Game/Game/Sequences/FemaleBase_Animation_CtrlRig_Take1': Can't find file.
+[2021.04.02-01.19.31:787][560]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Game/Sequences/FemaleBase_Animation_CtrlRig_Take1.FemaleBase_Animation_CtrlRig_Take1'
+[2021.04.02-01.19.31:787][560]LogWorld: Bringing up level for play took: 0.004202
+[2021.04.02-01.19.31:787][560]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.04.02-01.19.31:789][560]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.04.02-01.19.31:790][560]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.04.02-01.19.31:790][560]Cmd: r.TemporalAA.Upsampling 0
+[2021.04.02-01.19.31:790][560]r.TemporalAA.Upsampling = "0"
+[2021.04.02-01.19.31:790][560]Cmd: r.Streaming.PoolSize 3000
+[2021.04.02-01.19.31:790][560]r.Streaming.PoolSize = "3000"
+[2021.04.02-01.19.31:790][560]LogBlueprintUserMessages: [AC_DLSS] DLSS ON
+[2021.04.02-01.19.31:790][560]PIE: Server logged in
+[2021.04.02-01.19.31:791][560]PIE: Play in editor total start time 0,1 seconds.
+[2021.04.02-01.19.31:831][561]LogDLSSNGX: [Core]: [2021-04-01 22:19:31] [NVSDK_NGX_CreateFeature_Validate:400] app id is 194818232
+[2021.04.02-01.19.33:262][700]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.02-01.19.33:262][700]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.04.02-01.19.33:262][700]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.04.02-01.19.34:311][825]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2021.04.02-01.19.34:311][825]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2021.04.02-01.19.34:311][825]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2021.04.02-01.19.34:311][825]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2021.04.02-01.19.34:311][825]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Armani Hair
+[2021.04.02-01.19.34:998][907]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.04.02-01.19.34:998][907]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.04.02-01.19.35:366][951]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.02-01.19.35:366][951]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.04.02-01.19.35:683][989]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.04.02-01.19.35:683][989]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.04.02-01.19.36:462][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.02-01.19.36:462][ 78]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.02-01.19.36:462][ 78]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.02-01.19.36:463][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.02-01.19.36:471][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.02-01.19.36:476][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.02-01.19.36:514][ 78]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.02-01.19.36:515][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.02-01.19.36:516][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.02-01.19.36:529][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.02-01.19.36:554][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.04.02-01.19.36:575][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.04.02-01.19.36:628][ 82]LogDLSSNGXD3D11RHI: NVSDK_NGX_D3D11_ReleaseFeature -> (1 NVSDK_NGX_Result_Success)
+[2021.04.02-01.19.36:628][ 82]LogDLSSNGXD3D11RHI: NVSDK_NGX_D3D11_DestroyParameters -> (1 NVSDK_NGX_Result_Success)
