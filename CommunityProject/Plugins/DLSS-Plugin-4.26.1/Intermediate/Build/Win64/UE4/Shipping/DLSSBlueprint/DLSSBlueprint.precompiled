@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"DLSSLibrary.cpp.obj",
+		"DLSSBlueprint.init.gen.cpp.obj",
+		"DLSSLibrary.gen.cpp.obj"
+	]
+}
