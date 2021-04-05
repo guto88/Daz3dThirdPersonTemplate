@@ -8097,3 +8097,256 @@ Are you sure?
 [2021.04.05-19.18.04:363][428]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/MI_Arms99FDB7654B2C792EA14F4C8652DFABD8.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/Materials/MI_Arms.uasset'
 [2021.04.05-19.18.04:372][428]AssetCheck: New page: Asset Save: MI_Arms
 [2021.04.05-19.18.04:372][428]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/Materials/MI_Arms.MI_Arms
+[2021.04.05-19.18.29:555][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.04.05-19.18.29:556][698]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game/Maps/ThirdPersonExampleMap' took 0.014
+[2021.04.05-19.18.36:410][172]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.05-19.19.42:862][378]LogAssetEditorSubsystem: Opening Asset editor for ControlRigBlueprint /Game/Game/CharacterAssets/Genesis8_1/G8_FootIK_CtrlRig.G8_FootIK_CtrlRig
+[2021.04.05-19.19.42:866][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.04.05-19.19.42:866][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.04.05-19.20.47:765][859]BlueprintLog: New page: Compile G8_FootIK_CtrlRig
+[2021.04.05-19.20.47:836][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.04.05-19.20.48:511][880]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/G8_FootIK_CtrlRig724217F24A5251ABAF652E9DA9134F9B.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/G8_FootIK_CtrlRig.uasset'
+[2021.04.05-19.20.48:529][880]AssetCheck: New page: Asset Save: G8_FootIK_CtrlRig
+[2021.04.05-19.20.48:529][880]LogContentValidation: Display: Validating ControlRigBlueprint /Game/Game/CharacterAssets/Genesis8_1/G8_FootIK_CtrlRig.G8_FootIK_CtrlRig
+[2021.04.05-19.20.50:964][  6]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-19.20.50:964][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-19.20.50:971][  6]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-19.20.50:971][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-19.20.53:513][263]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-19.20.53:514][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-19.20.54:965][348]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-19.20.54:965][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-19.20.56:030][442]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-19.20.56:030][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-19.20.56:893][466]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-19.20.56:894][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-19.21.05:409][ 72]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Game/CharacterAssets/Genesis8_1/Male/Characters/MaleBase/Materials/MI_Face.MI_Face
+[2021.04.05-19.21.41:204][258]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-19.21.41:204][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-19.22.02:185][437]LogLinker: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\Audio\UI\vo_walk_Cue.uasset: Failed to load '/Game/Game/Audio/HoverCraft_Sounds/hover_new_stop': Can't find file.
+[2021.04.05-19.22.02:186][437]LogLinker: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\Audio\UI\vo_walk_Cue.uasset: Failed to load '/Game/Game/Audio/HoverCraft_Sounds/hover_new_stop': Can't find file.
+[2021.04.05-19.22.02:188][437]LogLinker: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\Audio\UI\vo_walk_Cue.uasset: Failed to load '/Game/Game/Audio/HoverCraft_Sounds/hover_new_stop': Can't find file.
+[2021.04.05-19.22.02:188][437]LogLinker: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Daz3dThirdPersonTemplate\CommunityProject\Content\Game\Audio\UI\vo_walk_Cue.uasset: Failed to load '/Game/Game/Audio/HoverCraft_Sounds/hover_new_stop': Can't find file.
+[2021.04.05-19.22.02:188][437]LoadErrors: Failed to load /Game/Game/Audio/HoverCraft_Sounds/hover_new_stop.hover_new_stop Referenced by SoundNodeWavePlayer_47
+[2021.04.05-19.22.02:188][437]LogLinker: Warning: Failed to load '/Game/Game/Audio/HoverCraft_Sounds/hover_new_stop': Can't find file.
+[2021.04.05-19.22.02:189][437]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Game/Audio/HoverCraft_Sounds/hover_new_stop.hover_new_stop'
+[2021.04.05-19.22.02:192][437]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:287][438]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:295][439]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:318][440]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:352][441]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:360][442]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:369][443]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:377][444]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:385][445]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:393][446]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:402][447]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:410][448]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:419][449]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:453][450]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:485][451]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:519][452]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:552][453]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.02:585][454]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.04:254][587]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.04:270][588]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.04:278][589]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.04:287][590]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.04:402][591]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.04:487][592]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.04:621][593]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Game/Audio/UI/vo_walk_Cue.vo_walk_Cue:SoundNodeWavePlayer_47 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2021.04.05-19.22.29:383][784]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.04.05-19.22.29:410][784]LogContentBrowser: Creating deferred item: NewFolder
+[2021.04.05-19.22.32:186][107]LogContentBrowser: Attempting asset rename: NewFolder -> Basics
+[2021.04.05-19.22.32:186][107]LogContentBrowser: End creating deferred item NewFolder
+[2021.04.05-19.22.39:349][547]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/RampMaterialD2F6E194434AA5A71D7A83B79B6F9140.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/MaterialLibrary/Basics/RampMaterial.uasset'
+[2021.04.05-19.22.39:361][547]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/CubeMaterialCDA8C46E46F5E7507F413DBD951E054B.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/MaterialLibrary/Basics/CubeMaterial.uasset'
+[2021.04.05-19.22.39:648][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.04.05-19.22.39:672][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.04.05-19.22.39:693][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.04.05-19.22.39:707][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.04.05-19.22.39:735][547]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/RightArm_StaticMesh69131B6F42B49663F83244B885283750.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/Meshes/RightArm_StaticMesh.uasset'
+[2021.04.05-19.22.39:748][547]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/Ramp_StaticMesh44E20C494CD5A69015CC90B69A5865BE.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/Meshes/Ramp_StaticMesh.uasset'
+[2021.04.05-19.22.39:761][547]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/Linear_Stair_StaticMesh995043A448161F92867383BBA20EAA45.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/Meshes/Linear_Stair_StaticMesh.uasset'
+[2021.04.05-19.22.39:774][547]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/LeftArm_StaticMesh95F701BB434C41F13505B784412B1045.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/Meshes/LeftArm_StaticMesh.uasset'
+[2021.04.05-19.22.39:786][547]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/Bump_StaticMeshD50C6BCC4EF3FEF21D9C658A3E33F62D.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/Meshes/Bump_StaticMesh.uasset'
+[2021.04.05-19.22.39:798][547]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/TemplateFloor654BB2F54978F74B4EACB8A200E4F454.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/Meshes/TemplateFloor.uasset'
+[2021.04.05-19.22.39:811][547]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/1M_Cube_Chamfer4C6F4854486C84CD9F770E9F6B23F99F.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/Meshes/1M_Cube_Chamfer.uasset'
+[2021.04.05-19.22.39:824][547]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/1M_Cube214D76624134B3B5296860B3F45471EA.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/Meshes/1M_Cube.uasset'
+[2021.04.05-19.22.39:922][547]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.05-19.22.39:922][547]LogContentValidation: Display: Validating Material /Game/Game/MaterialLibrary/Basics/CubeMaterial.CubeMaterial
+[2021.04.05-19.22.39:922][547]LogContentValidation: Display: Validating StaticMesh /Game/Game/Meshes/1M_Cube.1M_Cube
+[2021.04.05-19.22.39:922][547]LogContentValidation: Display: Validating StaticMesh /Game/Game/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer
+[2021.04.05-19.22.39:922][547]LogContentValidation: Display: Validating Material /Game/Game/MaterialLibrary/Basics/RampMaterial.RampMaterial
+[2021.04.05-19.22.39:922][547]LogContentValidation: Display: Validating StaticMesh /Game/Game/Meshes/Bump_StaticMesh.Bump_StaticMesh
+[2021.04.05-19.22.39:922][547]LogContentValidation: Display: Validating StaticMesh /Game/Game/Meshes/LeftArm_StaticMesh.LeftArm_StaticMesh
+[2021.04.05-19.22.39:922][547]LogContentValidation: Display: Validating StaticMesh /Game/Game/Meshes/Linear_Stair_StaticMesh.Linear_Stair_StaticMesh
+[2021.04.05-19.22.39:922][547]LogContentValidation: Display: Validating StaticMesh /Game/Game/Meshes/Ramp_StaticMesh.Ramp_StaticMesh
+[2021.04.05-19.22.39:922][547]LogContentValidation: Display: Validating StaticMesh /Game/Game/Meshes/RightArm_StaticMesh.RightArm_StaticMesh
+[2021.04.05-19.22.39:922][547]LogContentValidation: Display: Validating StaticMesh /Game/Game/Meshes/TemplateFloor.TemplateFloor
+[2021.04.05-19.22.44:959][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.04.05-19.22.45:954][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.04.05-19.22.45:976][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.04.05-19.22.45:991][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.05-19.22.54:931][534]LogLinker: Warning: Failed to load '/Game/Game/Sequences/FemaleBase_Animation_CtrlRig_Take1': Can't find file.
+[2021.04.05-19.22.54:931][534]LogLinker: Warning: Failed to load '/Game/Game/Sequences/FemaleBase_Animation_CtrlRig_Take1': Can't find file.
+[2021.04.05-19.22.54:931][534]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Game/Sequences/FemaleBase_Animation_CtrlRig_Take1.FemaleBase_Animation_CtrlRig_Take1'
+[2021.04.05-19.23.57:326][718]LogContentBrowser: Deferred new asset file creation: NewLevelSequence
+[2021.04.05-19.23.57:335][718]LogContentBrowser: Creating deferred item: NewLevelSequence
+[2021.04.05-19.23.57:803][757]LogContentBrowser: Attempting asset rename: NewLevelSequence -> NewLevelSequence
+[2021.04.05-19.23.57:805][757]LogContentBrowser: End creating deferred item NewLevelSequence
+[2021.04.05-19.23.58:474][814]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/NewLevelSequence.NewLevelSequence
+[2021.04.05-19.24.17:586][490]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.04.05-19.24.20:165][523]LogAnimationCompression: Building Anim DDC data for AnimSequence /Engine/Transient.AnimSequence_0
+[2021.04.05-19.24.21:993][667]LogSlate: Window 'Bake To Control Rig' being destroyed
+[2021.04.05-19.24.23:195][785]LogSlate: Window 'Sequence Recorder' being destroyed
+[2021.04.05-19.24.23:201][785]LogSlate: Window 'Sequence Recorder' being destroyed
+[2021.04.05-19.24.29:232][345]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.04.05-19.24.30:432][345]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.05-19.24.30:515][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.04.05-19.24.32:376][543]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (FemaleBase_Animation_CtrlRig)
+[2021.04.05-19.24.32:776][585]Cmd: DELETE
+[2021.04.05-19.24.32:776][585]Cmd: ACTOR DELETE
+[2021.04.05-19.24.32:780][585]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.04.05-19.24.32:795][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.04.05-19.24.32:796][585]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.04.05-19.24.34:034][730]Cmd: DELETE
+[2021.04.05-19.24.34:034][730]Cmd: ACTOR DELETE
+[2021.04.05-19.24.34:037][730]LogEditorActor: Deleted Actor: LevelSequenceActor
+[2021.04.05-19.24.34:052][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.05-19.24.34:053][730]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.04.05-19.24.37:116][996]Cmd: DELETE
+[2021.04.05-19.24.37:116][996]Cmd: ACTOR DELETE
+[2021.04.05-19.24.37:119][996]LogEditorActor: Deleted Actor: PlayerStart
+[2021.04.05-19.24.37:134][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.05-19.24.37:135][996]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.04.05-19.24.40:203][234]Cmd: DELETE
+[2021.04.05-19.24.40:203][234]Cmd: ACTOR DELETE
+[2021.04.05-19.24.40:206][234]LogEditorActor: Deleted Actor: BP_PlayerCharacter_C
+[2021.04.05-19.24.40:237][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.04.05-19.24.40:239][234]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.04.05-19.24.42:683][487]Cmd: DELETE
+[2021.04.05-19.24.42:683][487]Cmd: ACTOR DELETE
+[2021.04.05-19.24.42:687][487]LogEditorActor: Deleted Actor: DocumentationActor
+[2021.04.05-19.24.42:702][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.05-19.24.42:703][487]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.04.05-19.24.46:783][746]Cmd: DELETE
+[2021.04.05-19.24.46:783][746]Cmd: ACTOR DELETE
+[2021.04.05-19.24.46:786][746]LogEditorActor: Deleted Actor: BP_NPCCharacter_C
+[2021.04.05-19.24.46:817][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.04.05-19.24.46:818][746]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.04.05-19.24.53:883][574]Cmd: DELETE
+[2021.04.05-19.24.53:883][574]Cmd: ACTOR DELETE
+[2021.04.05-19.24.53:897][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.05-19.24.53:899][574]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2021.04.05-19.25.13:970][269]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/FemaleBase_Animation_CtrlRig_Take1.FemaleBase_Animation_CtrlRig_Take1
+[2021.04.05-19.25.15:565][387]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (FemaleBase_Animation_CtrlRig)
+[2021.04.05-19.25.16:795][525]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (FemaleBase_Animation_CtrlRig)
+[2021.04.05-19.25.17:875][644]Cmd: TRANSACTION UNDO
+[2021.04.05-19.25.17:875][644]LogEditorTransaction: Undo Clicking on Actors
+[2021.04.05-19.25.20:334][767]Cmd: DELETE
+[2021.04.05-19.25.20:334][767]Cmd: ACTOR DELETE
+[2021.04.05-19.25.20:339][767]LogEditorActor: Deleted Actor: LevelSequenceActor
+[2021.04.05-19.25.20:436][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.04.05-19.25.20:440][767]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2021.04.05-19.25.20:932][805]Cmd: DELETE
+[2021.04.05-19.25.20:932][805]Cmd: ACTOR DELETE
+[2021.04.05-19.25.20:935][805]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.04.05-19.25.20:950][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.05-19.25.20:951][805]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.04.05-19.25.23:753][ 52]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/FemaleBase_Animation_CtrlRig_Take2.FemaleBase_Animation_CtrlRig_Take2
+[2021.04.05-19.25.28:934][428]Cmd: DELETE
+[2021.04.05-19.25.28:934][428]Cmd: ACTOR DELETE
+[2021.04.05-19.25.28:940][428]LogEditorActor: Deleted Actor: LevelSequenceActor
+[2021.04.05-19.25.28:958][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.04.05-19.25.28:961][428]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.04.05-19.25.29:404][455]Cmd: DELETE
+[2021.04.05-19.25.29:404][455]Cmd: ACTOR DELETE
+[2021.04.05-19.25.34:489][455]LogSlate: Window 'Message' being destroyed
+[2021.04.05-19.25.34:501][455]Message dialog closed, result: No, title: Message, text: Actor FemaleBase_Animation_CtrlRig is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+(Soft) Object /Game/FemaleBase_Animation_CtrlRig_Take2.FemaleBase_Animation_CtrlRig_Take2
+[2021.04.05-19.25.34:515][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.05-19.25.34:516][455]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2021.04.05-19.25.39:731][933]Cmd: DELETE
+[2021.04.05-19.25.39:731][933]Cmd: ACTOR DELETE
+[2021.04.05-19.25.43:457][933]LogSlate: Window 'Message' being destroyed
+[2021.04.05-19.25.43:471][933]Message dialog closed, result: No, title: Message, text: Actor FemaleBase_Animation_CtrlRig is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+(Soft) Object /Game/FemaleBase_Animation_CtrlRig_Take2.FemaleBase_Animation_CtrlRig_Take2
+[2021.04.05-19.25.43:485][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.05-19.25.43:487][933]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2021.04.05-19.26.01:315][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.04.05-19.26.02:633][140]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.05-19.26.02:690][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.04.05-19.26.03:730][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.04.05-19.26.04:690][194]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.05-19.26.04:737][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.04.05-19.26.06:047][294]Cmd: DELETE
+[2021.04.05-19.26.06:047][294]Cmd: ACTOR DELETE
+[2021.04.05-19.26.06:048][294]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.04.05-19.26.06:063][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.04.05-19.26.06:064][294]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.04.05-19.26.08:603][467]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/FemaleBase_Animation_CtrlRig_Take1.FemaleBase_Animation_CtrlRig_Take1
+[2021.04.05-19.26.12:943][868]Cmd: DELETE
+[2021.04.05-19.26.12:943][868]Cmd: ACTOR DELETE
+[2021.04.05-19.26.12:947][868]LogEditorActor: Deleted Actor: LevelSequenceActor
+[2021.04.05-19.26.12:966][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.04.05-19.26.12:968][868]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.04.05-19.26.13:682][916]Cmd: DELETE
+[2021.04.05-19.26.13:682][916]Cmd: ACTOR DELETE
+[2021.04.05-19.26.14:840][916]LogSlate: Window 'Message' being destroyed
+[2021.04.05-19.26.14:852][916]Message dialog closed, result: No, title: Message, text: Actor FemaleBase_Animation_CtrlRig is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+(Soft) Object /Game/FemaleBase_Animation_CtrlRig_Take1.FemaleBase_Animation_CtrlRig_Take1
+[2021.04.05-19.26.14:866][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.05-19.26.14:867][916]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2021.04.05-19.26.21:463][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.04.05-19.26.22:681][431]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.05-19.26.23:288][431]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FemaleBase_Animation_CtrlRig_Take1.FemaleBase_Animation_CtrlRig_Take1
+[2021.04.05-19.26.23:667][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.04.05-19.26.25:433][534]Cmd: DELETE
+[2021.04.05-19.26.25:433][534]Cmd: ACTOR DELETE
+[2021.04.05-19.26.25:434][534]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.04.05-19.26.25:450][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.04.05-19.26.25:451][534]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.04.05-19.26.28:190][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.05-19.26.29:307][813]LogSlate: Window 'Save Content' being destroyed
+[2021.04.05-19.26.29:452][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.05-19.26.29:463][813]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/ThirdPersonExampleMapBFB723D04AD680172B38BCA50F89EEE8.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/Maps/ThirdPersonExampleMap.umap'
+[2021.04.05-19.26.29:471][813]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.034
+[2021.04.05-19.26.29:481][813]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.04.05-19.26.29:481][813]LogContentValidation: Display: Validating World /Game/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.05-19.26.38:585][549]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/MaleBase_Animation_CtrlRig_Take1.MaleBase_Animation_CtrlRig_Take1
+[2021.04.05-19.26.41:480][785]Cmd: DELETE
+[2021.04.05-19.26.41:480][785]Cmd: ACTOR DELETE
+[2021.04.05-19.26.41:485][785]LogEditorActor: Deleted Actor: LevelSequenceActor
+[2021.04.05-19.26.41:507][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.04.05-19.26.41:509][785]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.04.05-19.26.47:067][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.04.05-19.26.47:956][178]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.05-19.26.48:514][178]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MaleBase_Animation_CtrlRig_Take1.MaleBase_Animation_CtrlRig_Take1
+[2021.04.05-19.26.48:919][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.04.05-19.26.49:991][222]Cmd: DELETE
+[2021.04.05-19.26.49:991][222]Cmd: ACTOR DELETE
+[2021.04.05-19.26.49:992][222]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.04.05-19.26.50:007][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.04.05-19.26.50:008][222]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.04.05-19.26.53:785][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.04.05-19.26.54:851][497]LogSlate: Window 'Save Content' being destroyed
+[2021.04.05-19.26.54:885][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.04.05-19.26.54:897][497]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Saved/ThirdPersonExampleMapC94738AC43F5E61DBAB25A80EB2D9A73.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Daz3dThirdPersonTemplate/CommunityProject/Content/Game/Maps/ThirdPersonExampleMap.umap'
+[2021.04.05-19.26.54:904][497]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.034
+[2021.04.05-19.26.54:915][497]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.04.05-19.26.54:915][497]LogContentValidation: Display: Validating World /Game/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
