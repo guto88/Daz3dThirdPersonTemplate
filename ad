@@ -1,0 +1,75 @@
+[1mdiff --git a/CommunityProject/Config/DefaultInput.ini b/CommunityProject/Config/DefaultInput.ini[m
+[1mindex 0b9de05..946fb3d 100644[m
+[1m--- a/CommunityProject/Config/DefaultInput.ini[m
+[1m+++ b/CommunityProject/Config/DefaultInput.ini[m
+[36m@@ -121,17 +121,6 @@[m [mFOVScale=0.011110[m
+ DoubleClickTime=0.200000[m
+ +ActionMappings=(ActionName="Jump",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=SpaceBar)[m
+ +ActionMappings=(ActionName="Jump",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Gamepad_FaceButton_Bottom)[m
+[31m-+ActionMappings=(ActionName="Jump",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Daydream_Left_Select_Click)[m
+[31m-+ActionMappings=(ActionName="Jump",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Vive_Left_Trigger_Click)[m
+[31m-+ActionMappings=(ActionName="Jump",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Vive_Right_Trigger_Click)[m
+[31m-+ActionMappings=(ActionName="Jump",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=MixedReality_Left_Trigger_Click)[m
+[31m-+ActionMappings=(ActionName="Jump",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=MixedReality_Right_Trigger_Click)[m
+[31m-+ActionMappings=(ActionName="Jump",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=OculusGo_Left_Trigger_Click)[m
+[31m-+ActionMappings=(ActionName="Jump",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=OculusTouch_Left_Trigger_Click)[m
+[31m-+ActionMappings=(ActionName="Jump",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=OculusTouch_Right_Trigger_Click)[m
+[31m-+ActionMappings=(ActionName="Jump",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=ValveIndex_Left_Trigger_Click)[m
+[31m-+ActionMappings=(ActionName="Jump",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=ValveIndex_Right_Trigger_Click)[m
+[31m-+ActionMappings=(ActionName="Jump",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=MagicLeap_Left_Trigger)[m
+ +ActionMappings=(ActionName="Interact",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=E)[m
+ +ActionMappings=(ActionName="Slow Motion",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Z)[m
+ +ActionMappings=(ActionName="Open Inventory",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=I)[m
+[1mdiff --git a/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/Materials/MI_Arms.uasset b/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/Materials/MI_Arms.uasset[m
+[1mindex b841471..55aad62 100644[m
+Binary files a/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/Materials/MI_Arms.uasset and b/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/Materials/MI_Arms.uasset differ
+[1mdiff --git a/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/Materials/MI_Face.uasset b/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/Materials/MI_Face.uasset[m
+[1mindex dffe680..8ec6987 100644[m
+Binary files a/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/Materials/MI_Face.uasset and b/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Female/Characters/FemaleBase/Materials/MI_Face.uasset differ
+[1mdiff --git a/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/G8_FootIK_CtrlRig.uasset b/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/G8_FootIK_CtrlRig.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..50f3161[m
+Binary files /dev/null and b/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/G8_FootIK_CtrlRig.uasset differ
+[1mdiff --git a/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Genesis8BaseSkeleton.uasset b/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Genesis8BaseSkeleton.uasset[m
+[1mindex 9ee61d3..6d56fff 100644[m
+Binary files a/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Genesis8BaseSkeleton.uasset and b/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Genesis8BaseSkeleton.uasset differ
+[1mdiff --git a/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Genesis8FootIK_CtrlRig.uasset b/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Genesis8FootIK_CtrlRig.uasset[m
+[1mdeleted file mode 100644[m
+[1mindex 7de7dc4..0000000[m
+Binary files a/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Genesis8FootIK_CtrlRig.uasset and /dev/null differ
+[1mdiff --git a/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Male/Characters/MaleBase/BPI_G8.uasset b/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Male/Characters/MaleBase/BPI_G8.uasset[m
+[1mindex 7a44abf..d6483b3 100644[m
+Binary files a/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Male/Characters/MaleBase/BPI_G8.uasset and b/CommunityProject/Content/Game/CharacterAssets/Genesis8_1/Male/Characters/MaleBase/BPI_G8.uasset differ
+[1mdiff --git a/CommunityProject/Content/Game/CharacterAssets/Mixamo/MixamoSkeleton.uasset b/CommunityProject/Content/Game/CharacterAssets/Mixamo/MixamoSkeleton.uasset[m
+[1mindex f0e2d6a..467736b 100644[m
+Binary files a/CommunityProject/Content/Game/CharacterAssets/Mixamo/MixamoSkeleton.uasset and b/CommunityProject/Content/Game/CharacterAssets/Mixamo/MixamoSkeleton.uasset differ
+[1mdiff --git a/CommunityProject/Content/Game/Maps/ThirdPersonExampleMap.umap b/CommunityProject/Content/Game/Maps/ThirdPersonExampleMap.umap[m
+[1mindex 468e73d..bb02868 100644[m
+Binary files a/CommunityProject/Content/Game/Maps/ThirdPersonExampleMap.umap and b/CommunityProject/Content/Game/Maps/ThirdPersonExampleMap.umap differ
+[1mdiff --git a/CommunityProject/Content/Game/MaterialLibrary/Basics/CubeMaterial.uasset b/CommunityProject/Content/Game/MaterialLibrary/Basics/CubeMaterial.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6844ff3[m
+Binary files /dev/null and b/CommunityProject/Content/Game/MaterialLibrary/Basics/CubeMaterial.uasset differ
+[1mdiff --git a/CommunityProject/Content/Game/MaterialLibrary/Basics/RampMaterial.uasset b/CommunityProject/Content/Game/MaterialLibrary/Basics/RampMaterial.uasset[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f07975c[m
+Binary files /dev/null and b/CommunityProject/Content/Game/MaterialLibrary/Basics/RampMaterial.uasset differ
+[1mdiff --git a/CommunityProject/Content/Game/MaterialLibrary/Genesis8_1/M_Skin.uasset b/CommunityProject/Content/Game/MaterialLibrary/Genesis8_1/M_Skin.uasset[m
+[1mindex c9ec419..2bb55fb 100644[m
+Binary files a/CommunityProject/Content/Game/MaterialLibrary/Genesis8_1/M_Skin.uasset and b/CommunityProject/Content/Game/MaterialLibrary/Genesis8_1/M_Skin.uasset differ
+[1mdiff --git a/CommunityProject/Content/Game/Meshes/1M_Cube.uasset b/CommunityProject/Content/Game/Meshes/1M_Cube.uasset[m
+[1mindex ea2a033..2378662 100644[m
+Binary files a/CommunityProject/Content/Game/Meshes/1M_Cube.uasset and b/CommunityProject/Content/Game/Meshes/1M_Cube.uasset differ
+[1mdiff --git a/CommunityProject/Content/Game/Meshes/1M_Cube_Chamfer.uasset b/CommunityProject/Content/Game/Meshes/1M_Cube_Chamfer.uasset[m
+[1mindex 21689f9..ab2b078 100644[m
+Binary files a/CommunityProject/Content/Game/Meshes/1M_Cube_Chamfer.uasset and b/CommunityProject/Content/Game/Meshes/1M_Cube_Chamfer.uasset differ
+[1mdiff --git a/CommunityProject/Content/Game/Meshes/Bump_StaticMesh.uasset b/CommunityProject/Content/Game/Meshes/Bump_StaticMesh.uasset[m
+[1mindex c963979..77e765d 100644[m
+Binary files a/CommunityProject/Content/Game/Meshes/Bump_StaticMesh.uasset and b/CommunityProject/Content/Game/Meshes/Bump_StaticMesh.uasset differ
+[1mdiff --git a/CommunityProject/Content/Game/Meshes/CubeMaterial.uasset b/CommunityProject/Content/Game/Meshes/CubeMaterial.uasset[m
+[1mdeleted file mode 100644[m
+[1mindex 770e5e4..0000000[m
+Binary files a/CommunityProject/Content/Game/Meshes/CubeMaterial.uasset and /dev/null differ
+[1mdiff --git a/CommunityProject/Content/Game/Meshes/LeftArm_StaticMesh.uasset b/CommunityProject/Content/Game/Meshes/LeftArm_StaticMesh.uasset[m
+[1mindex bba4636..7362c1c 100644[m
+Binary files a/CommunityProject/Content/Game/Meshes/LeftArm_StaticMesh.uasset and
