@@ -26,6 +26,10 @@
 		{
 			"Name": "DazToUnreal",
 			"Enabled": true
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
 		}
 	]
 }
