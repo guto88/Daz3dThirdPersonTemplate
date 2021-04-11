@@ -1,5 +1,6 @@
 # ThirdPersonTemplate for Daz3d assets
-IMPORTANT: This files are only for use within an Epic Unreal Engine project and their download and use from this repository acknowledges your agreement to be bound by the terms and conditions implied by the Epic Unreal Engine license agreement and Daz3d license agreement.
+
+#This files are only for use within an Epic Unreal Engine project and their download and use from this repository acknowledges your agreement to be bound by the terms and conditions implied by the Epic Unreal Engine license agreement and Daz3d license agreement.
 
 This is the Third Person Template for Daz3d assets. The goal of this project is to give examples of how to use the Daz3d assets with Unreal Engine 4 and also create a boilerplate to make this process more straightforward to users. 
 
