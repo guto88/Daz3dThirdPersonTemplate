@@ -28,4 +28,9 @@ CommunityProject/Intermediate/*
 CommunityProject/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
-CommunityProject/DerivedDataCache/*
+
+CommunityProject/Content/Developers/*
+
+CommunityProject/Content/Collections/*
+
+CommunityProject/Intermediate/*
