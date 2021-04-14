@@ -1,2 +1,7 @@
 
 *.log
+CommunityProject/Saved/Config/CrashReportClient/UE4CC-Windows-F6BCE3F044170C2B864FC7A01F602A23/CrashReportClient.ini
+CommunityProject/Saved/*
+CommunityProject/Intermediate/*
+CommunityProject/Content/Developers/*
+CommunityProject/Content/Developers/Collections/*
