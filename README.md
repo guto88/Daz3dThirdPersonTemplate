@@ -6,7 +6,7 @@ Unreal Engine License: https://www.unrealengine.com/en-US/eula/publishing / http
 
 Daz3D License: https://www.daz3d.com/eula
 
-This is the Third Person Template for Daz3d assets. The goal of this project is to give examples of how to use the Daz3d assets with Unreal Engine 4 and also create a boilerplate to make this process more straightforward to users. 
+This is a forever free Third Person Template for Daz3d assets. The goal of this project is not to create a full game, but to showcase how to use Daz3d assets with unreal and offer some basic features for a quick start. 
 
 This project comes with content from the Genesis 8 Essentials and Epic’s Content Example Project. 
 
