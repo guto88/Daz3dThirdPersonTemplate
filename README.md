@@ -1,4 +1,4 @@
-# ThirdPersonTemplate for Daz3d assets
+# ThirdPersonTemplate for Daz3d assets (UE4.26)
 
 # This files are only for use within an Epic Unreal Engine project and their download and use from this repository acknowledges your agreement to be bound by the terms and conditions implied by the Epic Unreal Engine license agreement and Daz3d license agreement.
 
@@ -7,6 +7,8 @@ This is the Third Person Template for Daz3d assets. The goal of this project is 
 This project comes with content from the Genesis 8 Essentials and Epic’s Content Example Project. 
 
 # Features:
+
+UE4.26
 
 Custom Meta-Human Skin and Eye Shader
 
