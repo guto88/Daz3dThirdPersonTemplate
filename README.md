@@ -60,3 +60,29 @@ I - Toggle Inventory (Left Click the item icon to Equip/Unequip/Drop Items)
 2 - Display FPS Counter (Right Side)
 
 3 - Toggle DLSS
+
+
+# Future Goals:
+
+Improve the control-rig setup
+
+Improve the inventory system
+
+Create a system that allows the use of Daz morphs to customize the character in-game
+
+Create a Hand Ik Solution.
+
+Create a ragdoll physics for the genesis 8 mesh.
+
+Create a Save system
+
+Add a simple example on how to blend combat animations with the locomotion system
+
+Create masks for makeup and brows to fill the slots available at the skin shader. For now, there are masks only for the lips and nails. I recommend the use of the skin builder product to fill those slots while there is no free texture available.
+
+Make the actor components blueprints more modular and plug and play.
+
+Create documentation to help people migrate the functionalities of this project to their own projects.
+
+Add sound to footsteps
+
