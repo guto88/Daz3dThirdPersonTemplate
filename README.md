@@ -14,6 +14,8 @@ This project comes with content from the Genesis 8 Essentials and Epic’s Conte
 
 UE4.26
 
+Daz To Unreal Bridge configured for the project
+
 Custom Meta-Human Skin and Eye Shader
 
 Custom Paragon Hair Shader
