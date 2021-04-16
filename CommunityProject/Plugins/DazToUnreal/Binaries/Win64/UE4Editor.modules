@@ -1,9 +1,0 @@
-{
-	"BuildId": "14830424",
-	"Modules": 
-	{
-		"DazToUnreal": "UE4Editor-DazToUnreal.dll",
-		"DazToUnrealDeveloper": "UE4Editor-DazToUnrealDeveloper.dll",
-		"DazToUnrealRuntime": "UE4Editor-DazToUnrealRuntime.dll"
-	}
-}
