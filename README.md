@@ -21,23 +21,31 @@ Custom Paragon Hair Shader
 
 Control-rig setup for Genesis 8.1 Male and Female
 
-Retargeting configuration and poses for Mixamo Mannequin skeletons, and Genesis 8.1
+Retargeting configuration and poses for Mixamo, Mannequin, and Genesis 8.1 skeletons.
 
 Foot IK Solution 
 
-Inventory System
+Inventory System (Equip/Unequip/Drop items, Stack Items, Item highlighting) 
 
-Dynamic Material System
+Dynamic Material System (Change mesh opacity masks based on the equipped items to help prevent poke thru.
 
 Simple Death and Restart Level
 
 8-Way Locomotion System, with standing in place animations
 
-Basic Debugs Keys
+Run
 
-Volumetric Clouds, Sky Atmosmosferic Fog and Lightning Set.
+Jump
 
-Postprocess Material Adjusted
+Crouch
+
+Basic Debugs Keys (Slow Motion, Disable DSLL and Display FPS)
+
+Volumetric Clouds, Sky Atmosmosferic Fog and Lighting Set.
+
+Postprocess Material
+
+First and Third Person Modes
 
 # Controls:
 
